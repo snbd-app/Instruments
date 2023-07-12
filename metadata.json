@@ -2,138 +2,183 @@
   "sounds" : [
     {
       "description" : "G2 phrase mezzo-forte legato",
+      "audioSource" : "https:\/\/philharmonia.co.uk\/resources\/sound-samples\/",
+      "imageSource" : "Aero145, Editor \/ Bearbeiter: User:Gisbert K, CC BY-SA 3.0 <https:\/\/creativecommons.org\/licenses\/by-sa\/3.0>, via Wikimedia Commons - no changes",
       "name" : "Bass Clarinet",
       "image" : "jpeg",
       "color" : "702898"
     },
     {
       "description" : "long crescendo bass drum mallet",
+      "audioSource" : "https:\/\/philharmonia.co.uk\/resources\/sound-samples\/",
+      "imageSource" : "Chocho at French Wikipedia, FAL, via Wikimedia Commons",
       "name" : "Bass Drum",
       "image" : "jpeg",
       "color" : "FF3B30"
     },
     {
       "description" : "As1 phrase mezzo-forte staccatissimo",
+      "audioSource" : "https:\/\/philharmonia.co.uk\/resources\/sound-samples\/",
+      "imageSource" : "Edgar Degas, Public domain, via Wikimedia Commons",
       "name" : "Bassoon",
       "image" : "jpeg",
       "color" : "A06B23"
     },
     {
       "description" : "C2 phrase mezzo-forte arco-col-legno-tratto",
+      "audioSource" : "https:\/\/philharmonia.co.uk\/resources\/sound-samples\/",
+      "imageSource" : "Erikvisser.art, CC BY-SA 3.0 <https:\/\/creativecommons.org\/licenses\/by-sa\/3.0>, via Wikimedia Commons",
       "name" : "Cello",
       "image" : "jpeg",
       "color" : "007AFF"
     },
     {
       "description" : "B5 phrase mezzo-forte nonlegato",
+      "audioSource" : "https:\/\/philharmonia.co.uk\/resources\/sound-samples\/",
+      "imageSource" : "Nathan Bingle on Unsplash",
       "name" : "Clarinet",
       "image" : "jpeg",
       "color" : "FF9500"
     },
     {
       "description" : "long mezzo-forte rhythm",
+      "audioSource" : "https:\/\/philharmonia.co.uk\/resources\/sound-samples\/",
+      "imageSource" : "Michael Malak, Public domain, via Wikimedia Commons",
       "name" : "Cowbell",
       "image" : "jpeg",
       "color" : "A06B23"
     },
     {
       "description" : "A1 phrase piano arco-normal",
+      "audioSource" : "https:\/\/philharmonia.co.uk\/resources\/sound-samples\/",
+      "imageSource" : "Bain News Service, publisher, Public domain, via Wikimedia Commons",
       "name" : "Double Bass",
       "image" : "jpeg",
       "color" : "34C759"
     },
     {
       "description" : "very-long forte effect",
+      "audioSource" : "https:\/\/philharmonia.co.uk\/resources\/sound-samples\/",
+      "imageSource" : "The original uploader was Jcsutton at English Wikipedia., CC BY-SA 3.0 <http:\/\/creativecommons.org\/licenses\/by-sa\/3.0\/>, via Wikimedia Commons",
       "name" : "Flexatone",
       "image" : "jpeg",
       "color" : "FF3B30"
     },
     {
       "description" : "A5 phrase mezzo-forte staccato",
+      "audioSource" : "https:\/\/philharmonia.co.uk\/resources\/sound-samples\/",
+      "imageSource" : "Grendelkhan, CC BY-SA 4.0 <https:\/\/creativecommons.org\/licenses\/by-sa\/4.0>, via Wikimedia Commons",
       "name" : "Flute",
       "image" : "jpeg",
       "color" : "007AFF"
     },
     {
       "description" : "G4 phrase forte legato",
+      "audioSource" : "https:\/\/philharmonia.co.uk\/resources\/sound-samples\/",
+      "imageSource" : "Yamaha Corporation, CC BY-SA 4.0 <https:\/\/creativecommons.org\/licenses\/by-sa\/4.0>, via Wikimedia Commons",
       "name" : "French Horn",
       "image" : "jpeg",
       "color" : "FFCC00"
     },
     {
       "description" : "D5 very-long forte tremolo",
+      "audioSource" : "https:\/\/philharmonia.co.uk\/resources\/sound-samples\/",
+      "imageSource" : "Gregg Miner, CC BY-SA 3.0 <http://creativecommons.org/licenses/by-sa/3.0/>, via Wikimedia Commons",
       "name" : "Mandolin",
       "image" : "jpeg",
       "color" : "FF9500"
     },
     {
       "description" : "B3 phrase mezzo-forte staccato",
+      "audioSource" : "https:\/\/philharmonia.co.uk\/resources\/sound-samples\/",
+      "imageSource" : "Kobby Mendez on Unsplash",
       "name" : "Oboe",
       "image" : "jpeg",
       "color" : "34C759"
     },
     {
       "description" : "G3 phrase mezzo-forte tenuto",
+      "audioSource" : "https:\/\/philharmonia.co.uk\/resources\/sound-samples\/",
+      "imageSource" : "Daniel Angele on Unsplash",
       "name" : "Saxophone",
       "image" : "jpeg",
       "color" : "FFCC00"
     },
     {
       "description" : "long forte shaken",
+      "audioSource" : "https:\/\/philharmonia.co.uk\/resources\/sound-samples\/",
+      "imageSource" : "Zephyris at the English-language Wikipedia, CC BY-SA 3.0 <http:\/\/creativecommons.org\/licenses\/by-sa\/3.0\/>, via Wikimedia Commons",
       "name" : "Sleigh Bells",
       "image" : "jpeg",
       "color" : "8C33B6"
     },
     {
       "description" : "phrase cresc-decresc rhythm",
+      "audioSource" : "https:\/\/philharmonia.co.uk\/resources\/sound-samples\/",
+      "imageSource" : "ASBA Drums on Unsplash",
       "name" : "Snare Drum",
       "image" : "jpeg",
       "color" : "FF9500"
     },
     {
       "description" : "phrase mezzo-forte hand",
+      "audioSource" : "https:\/\/philharmonia.co.uk\/resources\/sound-samples\/",
+      "imageSource" : "Philadelphia Youth Orchestra from USA, CC BY-SA 2.0 <https:\/\/creativecommons.org\/licenses\/by-sa\/2.0>, via Wikimedia Commons",
       "name" : "Tambourine",
       "image" : "jpeg",
       "color" : "A06B23"
     },
     {
       "description" : "E2 very-long cresc-decresc normal",
+      "audioSource" : "https:\/\/philharmonia.co.uk\/resources\/sound-samples\/",
+      "imageSource" : "Gabe Pierce on Unsplash",
       "name" : "Trombone",
       "image" : "jpeg",
       "color" : "FFCC00"
     },
     {
       "description" : "Gs3 phrase mezzo-forte tenuto",
+      "audioSource" : "https:\/\/philharmonia.co.uk\/resources\/sound-samples\/",
+      "imageSource" : "Muels on Unsplash",
       "name" : "Trumpet",
       "image" : "jpeg",
       "color" : "34C759"
     },
     {
       "description" : "As1 phrase mezzo-forte staccato",
+      "audioSource" : "https:\/\/philharmonia.co.uk\/resources\/sound-samples\/",
+      "imageSource" : "Sorin Sîrbu on Unsplash",
       "name" : "Tuba",
       "image" : "jpeg",
       "color" : "FF3B30"
     },
     {
       "description" : "C3 phrase mezzo-forte con-sord",
+      "audioSource" : "https:\/\/philharmonia.co.uk\/resources\/sound-samples\/",
+      "imageSource" : "Just plain Bill, Public domain, via Wikimedia Commons",
       "name" : "Viola",
       "image" : "jpeg",
       "color" : "007AFF"
     },
     {
       "description" : "D4 very-long mezzo-piano non-vibrato",
+      "audioSource" : "https:\/\/philharmonia.co.uk\/resources\/sound-samples\/",
+      "imageSource" : "Beth Rufener on Unsplash",
       "name" : "Violin",
       "image" : "jpeg",
       "color" : "A06B23"
     },
     {
       "description" : "phrase forte scraped",
+      "audioSource" : "https:\/\/philharmonia.co.uk\/resources\/sound-samples\/",
+      "imageSource" : "Daniel Axelson from Nabari-Shi, Mie-Ken, Japan, CC BY-SA 2.0 <https:\/\/creativecommons.org\/licenses\/by-sa\/2.0>, via Wikimedia Commons",
       "name" : "Washboard",
       "image" : "jpeg",
       "color" : "702898"
     }
   ],
   "sorts" : "[{\"sortValue\":\"name\",\"isForward\":true}]",
+  "audioSource" : "Various",
   "name" : "Instruments",
   "image" : "🎼",
   "color" : "EBEBEB",
