@@ -182,5 +182,7 @@
   "name" : "Instruments",
   "image" : "🎼",
   "color" : "EBEBEB",
+  "duration" : 233,
+  "size" : 4278177,
   "description" : "Musical sounds we make using instruments from the orchestra, band, and farmland."
 }
