@@ -1,8 +1,8 @@
 {
   "sounds" : [
     {
-      "description" : "G2 phrase mezzo-forte legato",
-      "audioSource" : "https:\/\/philharmonia.co.uk\/resources\/sound-samples\/",
+      "description" : "G2, fortissimo",
+      "audioSource" : "[Bass Clarinet, ff, G2](https:\/\/theremin.music.uiowa.edu\/MIS-Pitches-2012\/MISBbBassClarinet2012.html) from the [University of Iowa Musical Instrument Samples](https:\/\/theremin.music.uiowa.edu\/MIS.html), free to use without restrictions. Trimmed and leveled.",
       "imageSource" : "Aero145, Editor \/ Bearbeiter: User:Gisbert K, CC BY-SA 3.0 <https:\/\/creativecommons.org\/licenses\/by-sa\/3.0>, via Wikimedia Commons - no changes",
       "name" : "Bass Clarinet",
       "image" : "jpeg",
@@ -17,16 +17,16 @@
       "color" : "FF3B30"
     },
     {
-      "description" : "As1 phrase mezzo-forte staccatissimo",
-      "audioSource" : "https:\/\/philharmonia.co.uk\/resources\/sound-samples\/",
+      "description" : "A#2, sustained",
+      "audioSource" : "[PSBassoon_A#1_v2_1.wav](https:\/\/github.com\/sgossner\/VSCO-2-CE\/blob\/master\/Woodwinds\/Bassoon\/sus\/PSBassoon_A%231_v2_1.wav) from [VSCO 2 Community Edition](https:\/\/github.com\/sgossner\/VSCO-2-CE) by Versilian Studios is licensed under [CC0 1.0](https:\/\/creativecommons.org\/publicdomain\/zero\/1.0\/). Trimmed and leveled.",
       "imageSource" : "Edgar Degas, Public domain, via Wikimedia Commons",
       "name" : "Bassoon",
       "image" : "jpeg",
       "color" : "A06B23"
     },
     {
-      "description" : "C2 phrase mezzo-forte arco-col-legno-tratto",
-      "audioSource" : "https:\/\/philharmonia.co.uk\/resources\/sound-samples\/",
+      "description" : "B2, sustained with vibrato, section",
+      "audioSource" : "[susvib_B1_v1_1.wav](https:\/\/github.com\/sgossner\/VSCO-2-CE\/blob\/master\/Strings\/Cello%20Section\/susvib\/susvib_B1_v1_1.wav) from [VSCO 2 Community Edition](https:\/\/github.com\/sgossner\/VSCO-2-CE) by Versilian Studios is licensed under [CC0 1.0](https:\/\/creativecommons.org\/publicdomain\/zero\/1.0\/). Trimmed and leveled.",
       "imageSource" : "Erikvisser.art, CC BY-SA 3.0 <https:\/\/creativecommons.org\/licenses\/by-sa\/3.0>, via Wikimedia Commons",
       "name" : "Cello",
       "image" : "jpeg",
@@ -41,128 +41,128 @@
       "color" : "FF9500"
     },
     {
-      "description" : "long mezzo-forte rhythm",
-      "audioSource" : "https:\/\/philharmonia.co.uk\/resources\/sound-samples\/",
+      "description" : "single hit",
+      "audioSource" : "[Cowbell1_Hit_v3_rr1_Mid.wav](https:\/\/github.com\/sgossner\/VCSL\/blob\/master\/Idiophones\/Struck%20Idiophones\/Cowbells\/Cowbell1_Hit_v3_rr1_Mid.wav) from [VCSL](https:\/\/github.com\/sgossner\/VCSL) by Versilian Studios is licensed under [CC0 1.0](https:\/\/creativecommons.org\/publicdomain\/zero\/1.0\/). Trimmed and leveled.",
       "imageSource" : "Michael Malak, Public domain, via Wikimedia Commons",
       "name" : "Cowbell",
       "image" : "jpeg",
       "color" : "A06B23"
     },
     {
-      "description" : "A1 phrase piano arco-normal",
-      "audioSource" : "https:\/\/philharmonia.co.uk\/resources\/sound-samples\/",
+      "description" : "A2, sustained with vibrato",
+      "audioSource" : "[BKCtbss_SusVib_A1_v1_rr1.wav](https:\/\/github.com\/sgossner\/VSCO-2-CE\/blob\/master\/Strings\/Solo%20Contrabass\/SusVib\/BKCtbss_SusVib_A1_v1_rr1.wav) from [VSCO 2 Community Edition](https:\/\/github.com\/sgossner\/VSCO-2-CE) by Versilian Studios is licensed under [CC0 1.0](https:\/\/creativecommons.org\/publicdomain\/zero\/1.0\/). Trimmed and leveled.",
       "imageSource" : "Bain News Service, publisher, Public domain, via Wikimedia Commons",
       "name" : "Double Bass",
       "image" : "jpeg",
       "color" : "34C759"
     },
     {
-      "description" : "very-long forte effect",
-      "audioSource" : "https:\/\/philharmonia.co.uk\/resources\/sound-samples\/",
+      "description" : "shaken",
+      "audioSource" : "[flexatone1.wav](https:\/\/github.com\/sgossner\/VCSL\/blob\/master\/Idiophones\/Struck%20Idiophones\/Flexatone\/flexatone1.wav) from [VCSL](https:\/\/github.com\/sgossner\/VCSL) by Versilian Studios is licensed under [CC0 1.0](https:\/\/creativecommons.org\/publicdomain\/zero\/1.0\/). Trimmed and leveled.",
       "imageSource" : "The original uploader was Jcsutton at English Wikipedia., CC BY-SA 3.0 <http:\/\/creativecommons.org\/licenses\/by-sa\/3.0\/>, via Wikimedia Commons",
       "name" : "Flexatone",
       "image" : "jpeg",
       "color" : "FF3B30"
     },
     {
-      "description" : "A5 phrase mezzo-forte staccato",
-      "audioSource" : "https:\/\/philharmonia.co.uk\/resources\/sound-samples\/",
+      "description" : "A6, sustained with vibrato",
+      "audioSource" : "[LDFlute_susvib_A5_v1_1.wav](https:\/\/github.com\/sgossner\/VSCO-2-CE\/blob\/master\/Woodwinds\/Flute\/susvib\/LDFlute_susvib_A5_v1_1.wav) from [VSCO 2 Community Edition](https:\/\/github.com\/sgossner\/VSCO-2-CE) by Versilian Studios is licensed under [CC0 1.0](https:\/\/creativecommons.org\/publicdomain\/zero\/1.0\/). Trimmed and leveled.",
       "imageSource" : "Grendelkhan, CC BY-SA 4.0 <https:\/\/creativecommons.org\/licenses\/by-sa\/4.0>, via Wikimedia Commons",
       "name" : "Flute",
       "image" : "jpeg",
       "color" : "007AFF"
     },
     {
-      "description" : "G4 phrase forte legato",
-      "audioSource" : "https:\/\/philharmonia.co.uk\/resources\/sound-samples\/",
+      "description" : "F5, sustained",
+      "audioSource" : "[MOHorn_sus_F4_v1_1.wav](https:\/\/github.com\/sgossner\/VSCO-2-CE\/blob\/master\/Brass\/F%20Horn\/sus\/MOHorn_sus_F4_v1_1.wav) from [VSCO 2 Community Edition](https:\/\/github.com\/sgossner\/VSCO-2-CE) by Versilian Studios is licensed under [CC0 1.0](https:\/\/creativecommons.org\/publicdomain\/zero\/1.0\/). Trimmed and leveled.",
       "imageSource" : "Yamaha Corporation, CC BY-SA 4.0 <https:\/\/creativecommons.org\/licenses\/by-sa\/4.0>, via Wikimedia Commons",
       "name" : "French Horn",
       "image" : "jpeg",
       "color" : "FFCC00"
     },
     {
-      "description" : "D5 very-long forte tremolo",
-      "audioSource" : "https:\/\/philharmonia.co.uk\/resources\/sound-samples\/",
-      "imageSource" : "Gregg Miner, CC BY-SA 3.0 <http://creativecommons.org/licenses/by-sa/3.0/>, via Wikimedia Commons",
+      "description" : "G chord, strummed",
+      "audioSource" : "[Mandolin Strum High G Chord.wav](https:\/\/freesound.org\/s\/413490\/) by [gollybob](https:\/\/freesound.org\/people\/gollybob\/) is licensed under [CC0 1.0](https:\/\/creativecommons.org\/publicdomain\/zero\/1.0\/). Trimmed and leveled.",
+      "imageSource" : "Gregg Miner, CC BY-SA 3.0 <http:\/\/creativecommons.org\/licenses\/by-sa\/3.0\/>, via Wikimedia Commons",
       "name" : "Mandolin",
       "image" : "jpeg",
       "color" : "FF9500"
     },
     {
-      "description" : "B3 phrase mezzo-forte staccato",
-      "audioSource" : "https:\/\/philharmonia.co.uk\/resources\/sound-samples\/",
+      "description" : "A#4, vibrato",
+      "audioSource" : "[Oboe_Vib_A#3_v1_Main.wav](https:\/\/github.com\/sgossner\/VSCO-2-CE\/blob\/master\/Woodwinds\/Oboe\/Vib\/Oboe_Vib_A%233_v1_Main.wav) from [VSCO 2 Community Edition](https:\/\/github.com\/sgossner\/VSCO-2-CE) by Versilian Studios is licensed under [CC0 1.0](https:\/\/creativecommons.org\/publicdomain\/zero\/1.0\/). Trimmed and leveled.",
       "imageSource" : "Kobby Mendez on Unsplash",
       "name" : "Oboe",
       "image" : "jpeg",
       "color" : "34C759"
     },
     {
-      "description" : "G3 phrase mezzo-forte tenuto",
-      "audioSource" : "https:\/\/philharmonia.co.uk\/resources\/sound-samples\/",
+      "description" : "F#4, vibrato",
+      "audioSource" : "[BrettTenor_Vib_Main_F#3_var2.wav](https:\/\/github.com\/sgossner\/VCSL\/blob\/master\/Aerophones\/Reed%20Aerophones\/Tenor%20Saxophone\/Vibrato\/BrettTenor_Vib_Main_F%233_var2.wav) from [VCSL](https:\/\/github.com\/sgossner\/VCSL) by Versilian Studios is licensed under [CC0 1.0](https:\/\/creativecommons.org\/publicdomain\/zero\/1.0\/). Trimmed and leveled.",
       "imageSource" : "Daniel Angele on Unsplash",
       "name" : "Saxophone",
       "image" : "jpeg",
       "color" : "FFCC00"
     },
     {
-      "description" : "long forte shaken",
-      "audioSource" : "https:\/\/philharmonia.co.uk\/resources\/sound-samples\/",
+      "description" : "shaken",
+      "audioSource" : "[sleighbell1_shake1.wav](https:\/\/github.com\/sgossner\/VCSL\/blob\/master\/Idiophones\/Struck%20Idiophones\/Sleigh%20Bells\/sleighbell1_shake1.wav) from [VCSL](https:\/\/github.com\/sgossner\/VCSL) by Versilian Studios is licensed under [CC0 1.0](https:\/\/creativecommons.org\/publicdomain\/zero\/1.0\/). Trimmed and leveled.",
       "imageSource" : "Zephyris at the English-language Wikipedia, CC BY-SA 3.0 <http:\/\/creativecommons.org\/licenses\/by-sa\/3.0\/>, via Wikimedia Commons",
       "name" : "Sleigh Bells",
       "image" : "jpeg",
       "color" : "8C33B6"
     },
     {
-      "description" : "phrase cresc-decresc rhythm",
-      "audioSource" : "https:\/\/philharmonia.co.uk\/resources\/sound-samples\/",
+      "description" : "single hit, forte",
+      "audioSource" : "[snare1_f_1.wav](https:\/\/github.com\/sgossner\/VSCO-2-CE\/blob\/master\/VSCO%201%20Percussion\/drums\/snare\/drum1\/snare1_f_1.wav) from [VSCO 2 Community Edition](https:\/\/github.com\/sgossner\/VSCO-2-CE) by Versilian Studios is licensed under [CC0 1.0](https:\/\/creativecommons.org\/publicdomain\/zero\/1.0\/). Trimmed and leveled.",
       "imageSource" : "ASBA Drums on Unsplash",
       "name" : "Snare Drum",
       "image" : "jpeg",
       "color" : "FF9500"
     },
     {
-      "description" : "phrase mezzo-forte hand",
-      "audioSource" : "https:\/\/philharmonia.co.uk\/resources\/sound-samples\/",
+      "description" : "shaken",
+      "audioSource" : "[Tamb1_Shake_rr1_Mid.wav](https:\/\/github.com\/sgossner\/VCSL\/blob\/master\/Idiophones\/Struck%20Idiophones\/Tambourine%201\/Tamb1_Shake_rr1_Mid.wav) from [VCSL](https:\/\/github.com\/sgossner\/VCSL) by Versilian Studios is licensed under [CC0 1.0](https:\/\/creativecommons.org\/publicdomain\/zero\/1.0\/). Trimmed and leveled.",
       "imageSource" : "Philadelphia Youth Orchestra from USA, CC BY-SA 2.0 <https:\/\/creativecommons.org\/licenses\/by-sa\/2.0>, via Wikimedia Commons",
       "name" : "Tambourine",
       "image" : "jpeg",
       "color" : "A06B23"
     },
     {
-      "description" : "E2 very-long cresc-decresc normal",
-      "audioSource" : "https:\/\/philharmonia.co.uk\/resources\/sound-samples\/",
+      "description" : "F3, sustained",
+      "audioSource" : "[tenortbn_sus_F2_v2_1.wav](https:\/\/github.com\/sgossner\/VSCO-2-CE\/blob\/master\/Brass\/Tenor%20Trombone\/sus\/tenortbn_sus_F2_v2_1.wav) from [VSCO 2 Community Edition](https:\/\/github.com\/sgossner\/VSCO-2-CE) by Versilian Studios is licensed under [CC0 1.0](https:\/\/creativecommons.org\/publicdomain\/zero\/1.0\/). Trimmed and leveled.",
       "imageSource" : "Gabe Pierce on Unsplash",
       "name" : "Trombone",
       "image" : "jpeg",
       "color" : "FFCC00"
     },
     {
-      "description" : "Gs3 phrase mezzo-forte tenuto",
-      "audioSource" : "https:\/\/philharmonia.co.uk\/resources\/sound-samples\/",
+      "description" : "G4, sustained with vibrato",
+      "audioSource" : "[Sum_SHTrumpet_susvib_G3_v2_rr1.wav](https:\/\/github.com\/sgossner\/VSCO-2-CE\/blob\/master\/Brass\/Trumpet\/susvib\/Sum_SHTrumpet_susvib_G3_v2_rr1.wav) from [VSCO 2 Community Edition](https:\/\/github.com\/sgossner\/VSCO-2-CE) by Versilian Studios is licensed under [CC0 1.0](https:\/\/creativecommons.org\/publicdomain\/zero\/1.0\/). Trimmed and leveled.",
       "imageSource" : "Muels on Unsplash",
       "name" : "Trumpet",
       "image" : "jpeg",
       "color" : "34C759"
     },
     {
-      "description" : "As1 phrase mezzo-forte staccato",
-      "audioSource" : "https:\/\/philharmonia.co.uk\/resources\/sound-samples\/",
+      "description" : "A#2, sustained",
+      "audioSource" : "[Tuba3_sus_A#1_v2_rr1_Mid.wav](https:\/\/github.com\/sgossner\/VSCO-2-CE\/blob\/master\/Brass\/Tuba\/sus\/Tuba3_sus_A%231_v2_rr1_Mid.wav) from [VSCO 2 Community Edition](https:\/\/github.com\/sgossner\/VSCO-2-CE) by Versilian Studios is licensed under [CC0 1.0](https:\/\/creativecommons.org\/publicdomain\/zero\/1.0\/). Trimmed and leveled.",
       "imageSource" : "Sorin Sîrbu on Unsplash",
       "name" : "Tuba",
       "image" : "jpeg",
       "color" : "FF3B30"
     },
     {
-      "description" : "C3 phrase mezzo-forte con-sord",
-      "audioSource" : "https:\/\/philharmonia.co.uk\/resources\/sound-samples\/",
+      "description" : "B3, sustained with vibrato, section",
+      "audioSource" : "[ViolaEns_susvib_B2_v2_1.wav](https:\/\/github.com\/sgossner\/VSCO-2-CE\/blob\/master\/Strings\/Viola%20Section\/susvib\/ViolaEns_susvib_B2_v2_1.wav) from [VSCO 2 Community Edition](https:\/\/github.com\/sgossner\/VSCO-2-CE) by Versilian Studios is licensed under [CC0 1.0](https:\/\/creativecommons.org\/publicdomain\/zero\/1.0\/). Trimmed and leveled.",
       "imageSource" : "Just plain Bill, Public domain, via Wikimedia Commons",
       "name" : "Viola",
       "image" : "jpeg",
       "color" : "007AFF"
     },
     {
-      "description" : "D4 very-long mezzo-piano non-vibrato",
-      "audioSource" : "https:\/\/philharmonia.co.uk\/resources\/sound-samples\/",
+      "description" : "C5, bowed with vibrato",
+      "audioSource" : "[LLVln_ArcoVib_C4_p.wav](https:\/\/github.com\/sgossner\/VSCO-2-CE\/blob\/master\/Strings\/Solo%20Violin\/Arco%20Vib\/LLVln_ArcoVib_C4_p.wav) from [VSCO 2 Community Edition](https:\/\/github.com\/sgossner\/VSCO-2-CE) by Versilian Studios is licensed under [CC0 1.0](https:\/\/creativecommons.org\/publicdomain\/zero\/1.0\/). Trimmed and leveled.",
       "imageSource" : "Beth Rufener on Unsplash",
       "name" : "Violin",
       "image" : "jpeg",
@@ -182,7 +182,7 @@
   "name" : "Instruments",
   "image" : "🎼",
   "color" : "EBEBEB",
-  "duration" : 233,
-  "size" : 16435621,
+  "duration" : 66,
+  "size" : 1678868,
   "description" : "Musical sounds we make using instruments from the orchestra, band, and farmland."
 }
