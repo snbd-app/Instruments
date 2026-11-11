@@ -9,8 +9,8 @@
       "color" : "702898"
     },
     {
-      "description" : "long crescendo bass drum mallet",
-      "audioSource" : "https:\/\/philharmonia.co.uk\/resources\/sound-samples\/",
+      "description" : "single hit, fortissimo",
+      "audioSource" : "[BDrumNew_hit_v7_rr1_Sum.wav](https:\/\/github.com\/sgossner\/VCSL\/blob\/master\/Membranophones\/Struck%20Membranophones\/Bass%20Drum%201\/BDrumNew_hit_v7_rr1_Sum.wav) from [VCSL](https:\/\/github.com\/sgossner\/VCSL) by Versilian Studios is licensed under [CC0 1.0](https:\/\/creativecommons.org\/publicdomain\/zero\/1.0\/). Trimmed and leveled.",
       "imageSource" : "Chocho at French Wikipedia, FAL, via Wikimedia Commons",
       "name" : "Bass Drum",
       "image" : "jpeg",
@@ -33,8 +33,8 @@
       "color" : "007AFF"
     },
     {
-      "description" : "B5 phrase mezzo-forte nonlegato",
-      "audioSource" : "https:\/\/philharmonia.co.uk\/resources\/sound-samples\/",
+      "description" : "A#4, sustained",
+      "audioSource" : "[DCClar_susLong_A#3_v2_rr1_sum.wav](https:\/\/github.com\/sgossner\/VSCO-2-CE\/blob\/master\/Woodwinds\/Clarinet\/susLong\/DCClar_susLong_A%233_v2_rr1_sum.wav) from [VSCO 2 Community Edition](https:\/\/github.com\/sgossner\/VSCO-2-CE) by Versilian Studios is licensed under [CC0 1.0](https:\/\/creativecommons.org\/publicdomain\/zero\/1.0\/). Trimmed and leveled.",
       "imageSource" : "Nathan Bingle on Unsplash",
       "name" : "Clarinet",
       "image" : "jpeg",
@@ -182,7 +182,7 @@
   "name" : "Instruments",
   "image" : "🎼",
   "color" : "EBEBEB",
-  "duration" : 66,
-  "size" : 1678868,
+  "duration" : 61,
+  "size" : 1077921,
   "description" : "Musical sounds we make using instruments from the orchestra, band, and farmland."
 }
