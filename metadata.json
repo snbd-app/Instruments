@@ -169,8 +169,8 @@
       "color" : "A06B23"
     },
     {
-      "description" : "phrase forte scraped",
-      "audioSource" : "https:\/\/philharmonia.co.uk\/resources\/sound-samples\/",
+      "description" : "scraped rhythm, 120 BPM",
+      "audioSource" : "Arranged from [MUSCPerc-Blue Snowball Microphone, CU_Washboard, Grinds, Multiple_Nicholas Judy_TDC](https:\/\/freesound.org\/s\/809104\/) by [designerschoice](https:\/\/freesound.org\/people\/designerschoice\/), licensed under [CC BY 4.0](https:\/\/creativecommons.org\/licenses\/by\/4.0\/). Cut into single scrapes, arranged into a rhythm and leveled.",
       "imageSource" : "Daniel Axelson from Nabari-Shi, Mie-Ken, Japan, CC BY-SA 2.0 <https:\/\/creativecommons.org\/licenses\/by-sa\/2.0>, via Wikimedia Commons",
       "name" : "Washboard",
       "image" : "jpeg",
@@ -183,6 +183,6 @@
   "image" : "🎼",
   "color" : "EBEBEB",
   "duration" : 61,
-  "size" : 1077921,
+  "size" : 1076503,
   "description" : "Musical sounds we make using instruments from the orchestra, band, and farmland."
 }
