@@ -3,7 +3,7 @@
     {
       "description" : "G2, fortissimo",
       "audioSource" : "[Bass Clarinet, ff, G2](https:\/\/theremin.music.uiowa.edu\/MIS-Pitches-2012\/MISBbBassClarinet2012.html) from the [University of Iowa Musical Instrument Samples](https:\/\/theremin.music.uiowa.edu\/MIS.html), free to use without restrictions. Trimmed and leveled.",
-      "imageSource" : "Aero145, Editor \/ Bearbeiter: User:Gisbert K, CC BY-SA 3.0 <https:\/\/creativecommons.org\/licenses\/by-sa\/3.0>, via Wikimedia Commons - no changes",
+      "imageSource" : "[Bassaklarinett](https:\/\/commons.wikimedia.org\/wiki\/File:Bassaklarinett.jpg) by [Aero145](https:\/\/commons.wikimedia.org\/wiki\/User:Aero145), edited by [Gisbert K](https:\/\/commons.wikimedia.org\/wiki\/User:Gisbert_K), is licensed under [CC BY-SA 3.0](https:\/\/creativecommons.org\/licenses\/by-sa\/3.0\/). From the 11 April 2021 version of the file. Cropped.",
       "name" : "Bass Clarinet",
       "image" : "jpeg",
       "color" : "702898"
@@ -11,7 +11,7 @@
     {
       "description" : "single hit, fortissimo",
       "audioSource" : "[BDrumNew_hit_v7_rr1_Sum.wav](https:\/\/github.com\/sgossner\/VCSL\/blob\/master\/Membranophones\/Struck%20Membranophones\/Bass%20Drum%201\/BDrumNew_hit_v7_rr1_Sum.wav) from [VCSL](https:\/\/github.com\/sgossner\/VCSL) by Versilian Studios is licensed under [CC0 1.0](https:\/\/creativecommons.org\/publicdomain\/zero\/1.0\/). Trimmed and leveled.",
-      "imageSource" : "Chocho at French Wikipedia, FAL, via Wikimedia Commons",
+      "imageSource" : "[Bass drum](https:\/\/commons.wikimedia.org\/wiki\/File:Bass_drum.jpg) by [Chocho](https:\/\/fr.wikipedia.org\/wiki\/Utilisateur:Chocho) is licensed under [Free Art License 1.3](https:\/\/artlibre.org\/licence\/lal\/en\/). Cropped.",
       "name" : "Bass Drum",
       "image" : "jpeg",
       "color" : "FF3B30"
@@ -19,7 +19,7 @@
     {
       "description" : "A#2, sustained",
       "audioSource" : "[PSBassoon_A#1_v2_1.wav](https:\/\/github.com\/sgossner\/VSCO-2-CE\/blob\/master\/Woodwinds\/Bassoon\/sus\/PSBassoon_A%231_v2_1.wav) from [VSCO 2 Community Edition](https:\/\/github.com\/sgossner\/VSCO-2-CE) by Versilian Studios is licensed under [CC0 1.0](https:\/\/creativecommons.org\/publicdomain\/zero\/1.0\/). Trimmed and leveled.",
-      "imageSource" : "Edgar Degas, Public domain, via Wikimedia Commons",
+      "imageSource" : "[The Orchestra at the Opera](https:\/\/commons.wikimedia.org\/wiki\/File:Edgar_Degas_-_The_Orchestra_at_the_Opera_-_Google_Art_Project.jpg) by Edgar Degas is in the public domain. Cropped.",
       "name" : "Bassoon",
       "image" : "jpeg",
       "color" : "A06B23"
@@ -27,7 +27,7 @@
     {
       "description" : "B2, sustained with vibrato, section",
       "audioSource" : "[susvib_B1_v1_1.wav](https:\/\/github.com\/sgossner\/VSCO-2-CE\/blob\/master\/Strings\/Cello%20Section\/susvib\/susvib_B1_v1_1.wav) from [VSCO 2 Community Edition](https:\/\/github.com\/sgossner\/VSCO-2-CE) by Versilian Studios is licensed under [CC0 1.0](https:\/\/creativecommons.org\/publicdomain\/zero\/1.0\/). Trimmed and leveled.",
-      "imageSource" : "Erikvisser.art, CC BY-SA 3.0 <https:\/\/creativecommons.org\/licenses\/by-sa\/3.0>, via Wikimedia Commons",
+      "imageSource" : "[Josephine van Lier plays violoncello piccolo](https:\/\/commons.wikimedia.org\/wiki\/File:Josephine_van_Lier_plays_violoncello_piccolo.jpg) by [Erikvisser.art](https:\/\/commons.wikimedia.org\/wiki\/User:Erikvisser.art) is licensed under [CC BY-SA 3.0](https:\/\/creativecommons.org\/licenses\/by-sa\/3.0\/).",
       "name" : "Cello",
       "image" : "jpeg",
       "color" : "007AFF"
@@ -43,7 +43,7 @@
     {
       "description" : "single hit",
       "audioSource" : "[Cowbell1_Hit_v3_rr1_Mid.wav](https:\/\/github.com\/sgossner\/VCSL\/blob\/master\/Idiophones\/Struck%20Idiophones\/Cowbells\/Cowbell1_Hit_v3_rr1_Mid.wav) from [VCSL](https:\/\/github.com\/sgossner\/VCSL) by Versilian Studios is licensed under [CC0 1.0](https:\/\/creativecommons.org\/publicdomain\/zero\/1.0\/). Trimmed and leveled.",
-      "imageSource" : "Michael Malak, Public domain, via Wikimedia Commons",
+      "imageSource" : "[Cowbell-2](https:\/\/commons.wikimedia.org\/wiki\/File:Cowbell-2.jpg) by [Michael Malak](https:\/\/commons.wikimedia.org\/wiki\/User:MikeMalak) is in the public domain.",
       "name" : "Cowbell",
       "image" : "jpeg",
       "color" : "A06B23"
@@ -51,7 +51,7 @@
     {
       "description" : "A2, sustained with vibrato",
       "audioSource" : "[BKCtbss_SusVib_A1_v1_rr1.wav](https:\/\/github.com\/sgossner\/VSCO-2-CE\/blob\/master\/Strings\/Solo%20Contrabass\/SusVib\/BKCtbss_SusVib_A1_v1_rr1.wav) from [VSCO 2 Community Edition](https:\/\/github.com\/sgossner\/VSCO-2-CE) by Versilian Studios is licensed under [CC0 1.0](https:\/\/creativecommons.org\/publicdomain\/zero\/1.0\/). Trimmed and leveled.",
-      "imageSource" : "Bain News Service, publisher, Public domain, via Wikimedia Commons",
+      "imageSource" : "[Sergei Koussevitsky](https:\/\/commons.wikimedia.org\/wiki\/File:Sergei_Koussevitsky.jpg) by Bain News Service is in the public domain. Cropped.",
       "name" : "Double Bass",
       "image" : "jpeg",
       "color" : "34C759"
@@ -59,7 +59,7 @@
     {
       "description" : "shaken",
       "audioSource" : "[flexatone1.wav](https:\/\/github.com\/sgossner\/VCSL\/blob\/master\/Idiophones\/Struck%20Idiophones\/Flexatone\/flexatone1.wav) from [VCSL](https:\/\/github.com\/sgossner\/VCSL) by Versilian Studios is licensed under [CC0 1.0](https:\/\/creativecommons.org\/publicdomain\/zero\/1.0\/). Trimmed and leveled.",
-      "imageSource" : "The original uploader was Jcsutton at English Wikipedia., CC BY-SA 3.0 <http:\/\/creativecommons.org\/licenses\/by-sa\/3.0\/>, via Wikimedia Commons",
+      "imageSource" : "[Flexatone 2005](https:\/\/commons.wikimedia.org\/wiki\/File:Flexatone_2005.jpg) by [Jcsutton](https:\/\/en.wikipedia.org\/wiki\/User:Jcsutton) is licensed under [CC BY-SA 3.0](https:\/\/creativecommons.org\/licenses\/by-sa\/3.0\/). Cropped.",
       "name" : "Flexatone",
       "image" : "jpeg",
       "color" : "FF3B30"
@@ -67,7 +67,7 @@
     {
       "description" : "A6, sustained with vibrato",
       "audioSource" : "[LDFlute_susvib_A5_v1_1.wav](https:\/\/github.com\/sgossner\/VSCO-2-CE\/blob\/master\/Woodwinds\/Flute\/susvib\/LDFlute_susvib_A5_v1_1.wav) from [VSCO 2 Community Edition](https:\/\/github.com\/sgossner\/VSCO-2-CE) by Versilian Studios is licensed under [CC0 1.0](https:\/\/creativecommons.org\/publicdomain\/zero\/1.0\/). Trimmed and leveled.",
-      "imageSource" : "Grendelkhan, CC BY-SA 4.0 <https:\/\/creativecommons.org\/licenses\/by-sa\/4.0>, via Wikimedia Commons",
+      "imageSource" : "[Flute player](https:\/\/commons.wikimedia.org\/wiki\/File:Flute_player_%281%29.jpg) by [Grendelkhan](https:\/\/commons.wikimedia.org\/wiki\/User:Grendelkhan) is licensed under [CC BY-SA 4.0](https:\/\/creativecommons.org\/licenses\/by-sa\/4.0\/). Cropped.",
       "name" : "Flute",
       "image" : "jpeg",
       "color" : "007AFF"
@@ -75,7 +75,7 @@
     {
       "description" : "F5, sustained",
       "audioSource" : "[MOHorn_sus_F4_v1_1.wav](https:\/\/github.com\/sgossner\/VSCO-2-CE\/blob\/master\/Brass\/F%20Horn\/sus\/MOHorn_sus_F4_v1_1.wav) from [VSCO 2 Community Edition](https:\/\/github.com\/sgossner\/VSCO-2-CE) by Versilian Studios is licensed under [CC0 1.0](https:\/\/creativecommons.org\/publicdomain\/zero\/1.0\/). Trimmed and leveled.",
-      "imageSource" : "Yamaha Corporation, CC BY-SA 4.0 <https:\/\/creativecommons.org\/licenses\/by-sa\/4.0>, via Wikimedia Commons",
+      "imageSource" : "[Yamaha Horn YHR-314II](https:\/\/commons.wikimedia.org\/wiki\/File:Yamaha_Horn_YHR-314II.tif) by Yamaha Corporation is licensed under [CC BY-SA 4.0](https:\/\/creativecommons.org\/licenses\/by-sa\/4.0\/). Cropped.",
       "name" : "French Horn",
       "image" : "jpeg",
       "color" : "FFCC00"
@@ -83,7 +83,7 @@
     {
       "description" : "G chord, strummed",
       "audioSource" : "[Mandolin Strum High G Chord.wav](https:\/\/freesound.org\/s\/413490\/) by [gollybob](https:\/\/freesound.org\/people\/gollybob\/) is licensed under [CC0 1.0](https:\/\/creativecommons.org\/publicdomain\/zero\/1.0\/). Trimmed and leveled.",
-      "imageSource" : "Gregg Miner, CC BY-SA 3.0 <http:\/\/creativecommons.org\/licenses\/by-sa\/3.0\/>, via Wikimedia Commons",
+      "imageSource" : "[Gibson mandolin orchestra](https:\/\/commons.wikimedia.org\/wiki\/File:Gibson-mandolin-orchestra.jpg) by Gregg Miner is licensed under [CC BY-SA 3.0](https:\/\/creativecommons.org\/licenses\/by-sa\/3.0\/). Cropped.",
       "name" : "Mandolin",
       "image" : "jpeg",
       "color" : "FF9500"
@@ -99,7 +99,7 @@
     {
       "description" : "F#4, vibrato",
       "audioSource" : "[BrettTenor_Vib_Main_F#3_var2.wav](https:\/\/github.com\/sgossner\/VCSL\/blob\/master\/Aerophones\/Reed%20Aerophones\/Tenor%20Saxophone\/Vibrato\/BrettTenor_Vib_Main_F%233_var2.wav) from [VCSL](https:\/\/github.com\/sgossner\/VCSL) by Versilian Studios is licensed under [CC0 1.0](https:\/\/creativecommons.org\/publicdomain\/zero\/1.0\/). Trimmed and leveled.",
-      "imageSource" : "Daniel Angele on Unsplash",
+      "imageSource" : "[Man playing copper-colored saxophone on street](https:\/\/unsplash.com\/photos\/2gu4hKuFhi0) by [Daniel Angele](https:\/\/unsplash.com\/@danangele) under the [Unsplash License](https:\/\/unsplash.com\/license). Cropped.",
       "name" : "Saxophone",
       "image" : "jpeg",
       "color" : "FFCC00"
@@ -107,7 +107,7 @@
     {
       "description" : "shaken",
       "audioSource" : "[sleighbell1_shake1.wav](https:\/\/github.com\/sgossner\/VCSL\/blob\/master\/Idiophones\/Struck%20Idiophones\/Sleigh%20Bells\/sleighbell1_shake1.wav) from [VCSL](https:\/\/github.com\/sgossner\/VCSL) by Versilian Studios is licensed under [CC0 1.0](https:\/\/creativecommons.org\/publicdomain\/zero\/1.0\/). Trimmed and leveled.",
-      "imageSource" : "Zephyris at the English-language Wikipedia, CC BY-SA 3.0 <http:\/\/creativecommons.org\/licenses\/by-sa\/3.0\/>, via Wikimedia Commons",
+      "imageSource" : "[Sleigh Bells](https:\/\/commons.wikimedia.org\/wiki\/File:Sleigh_Bells.jpg) by [Richard Wheeler](https:\/\/en.wikipedia.org\/wiki\/User:Zephyris) is licensed under [CC BY-SA 3.0](https:\/\/creativecommons.org\/licenses\/by-sa\/3.0\/). Cropped.",
       "name" : "Sleigh Bells",
       "image" : "jpeg",
       "color" : "8C33B6"
@@ -123,7 +123,7 @@
     {
       "description" : "shaken",
       "audioSource" : "[Tamb1_Shake_rr1_Mid.wav](https:\/\/github.com\/sgossner\/VCSL\/blob\/master\/Idiophones\/Struck%20Idiophones\/Tambourine%201\/Tamb1_Shake_rr1_Mid.wav) from [VCSL](https:\/\/github.com\/sgossner\/VCSL) by Versilian Studios is licensed under [CC0 1.0](https:\/\/creativecommons.org\/publicdomain\/zero\/1.0\/). Trimmed and leveled.",
-      "imageSource" : "Philadelphia Youth Orchestra from USA, CC BY-SA 2.0 <https:\/\/creativecommons.org\/licenses\/by-sa\/2.0>, via Wikimedia Commons",
+      "imageSource" : "[Tambourine 126](https:\/\/commons.wikimedia.org\/wiki\/File:Tambourine_126_%2813514147834%29.jpg) by [Philadelphia Youth Orchestra](https:\/\/www.flickr.com\/people\/46571220@N03) is licensed under [CC BY-SA 2.0](https:\/\/creativecommons.org\/licenses\/by-sa\/2.0\/). Cropped.",
       "name" : "Tambourine",
       "image" : "jpeg",
       "color" : "A06B23"
@@ -155,7 +155,7 @@
     {
       "description" : "B3, sustained with vibrato, section",
       "audioSource" : "[ViolaEns_susvib_B2_v2_1.wav](https:\/\/github.com\/sgossner\/VSCO-2-CE\/blob\/master\/Strings\/Viola%20Section\/susvib\/ViolaEns_susvib_B2_v2_1.wav) from [VSCO 2 Community Edition](https:\/\/github.com\/sgossner\/VSCO-2-CE) by Versilian Studios is licensed under [CC0 1.0](https:\/\/creativecommons.org\/publicdomain\/zero\/1.0\/). Trimmed and leveled.",
-      "imageSource" : "Just plain Bill, Public domain, via Wikimedia Commons",
+      "imageSource" : "[Bratsche](https:\/\/commons.wikimedia.org\/wiki\/File:Bratsche.jpg) by Just plain Bill is in the public domain. Cropped.",
       "name" : "Viola",
       "image" : "jpeg",
       "color" : "007AFF"
@@ -171,7 +171,7 @@
     {
       "description" : "scraped rhythm, 120 BPM",
       "audioSource" : "Arranged from [MUSCPerc-Blue Snowball Microphone, CU_Washboard, Grinds, Multiple_Nicholas Judy_TDC](https:\/\/freesound.org\/s\/809104\/) by [designerschoice](https:\/\/freesound.org\/people\/designerschoice\/), licensed under [CC BY 4.0](https:\/\/creativecommons.org\/licenses\/by\/4.0\/). Cut into single scrapes, arranged into a rhythm and leveled.",
-      "imageSource" : "Daniel Axelson from Nabari-Shi, Mie-Ken, Japan, CC BY-SA 2.0 <https:\/\/creativecommons.org\/licenses\/by-sa\/2.0>, via Wikimedia Commons",
+      "imageSource" : "[Washboard busker](https:\/\/commons.wikimedia.org\/wiki\/File:Washboard_busker.jpg) by [Daniel Axelson](https:\/\/www.flickr.com\/people\/89577954@N00) is licensed under [CC BY-SA 2.0](https:\/\/creativecommons.org\/licenses\/by-sa\/2.0\/). Cropped.",
       "name" : "Washboard",
       "image" : "jpeg",
       "color" : "702898"
