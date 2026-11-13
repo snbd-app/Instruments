@@ -146,7 +146,7 @@
     },
     {
       "description" : "A#2, sustained",
-      "audioSource" : "[Tuba3_sus_A#1_v2_rr1_Mid.wav](https:\/\/github.com\/sgossner\/VSCO-2-CE\/blob\/master\/Brass\/Tuba\/sus\/Tuba3_sus_A%231_v2_rr1_Mid.wav) from [VSCO 2 Community Edition](https:\/\/github.com\/sgossner\/VSCO-2-CE) by Versilian Studios is licensed under [CC0 1.0](https:\/\/creativecommons.org\/publicdomain\/zero\/1.0\/). Trimmed and leveled.",
+      "audioSource" : "[Tuba3_sus_A#1_v2_rr1_Mid.wav](https:\/\/github.com\/sgossner\/VSCO-2-CE\/blob\/master\/Brass\/Tuba\/sus\/Tuba3_sus_A%231_v2_rr1_Mid.wav) from [VSCO 2 Community Edition](https:\/\/github.com\/sgossner\/VSCO-2-CE) by Versilian Studios is licensed under [CC0 1.0](https:\/\/creativecommons.org\/publicdomain\/zero\/1.0\/). Trimmed, leveled and converted to mono.",
       "imageSource" : "Sorin Sîrbu on Unsplash",
       "name" : "Tuba",
       "image" : "jpeg",
@@ -161,7 +161,7 @@
       "color" : "007AFF"
     },
     {
-      "description" : "C5, bowed with vibrato",
+      "description" : "C4, bowed with vibrato",
       "audioSource" : "[LLVln_ArcoVib_C4_p.wav](https:\/\/github.com\/sgossner\/VSCO-2-CE\/blob\/master\/Strings\/Solo%20Violin\/Arco%20Vib\/LLVln_ArcoVib_C4_p.wav) from [VSCO 2 Community Edition](https:\/\/github.com\/sgossner\/VSCO-2-CE) by Versilian Studios is licensed under [CC0 1.0](https:\/\/creativecommons.org\/publicdomain\/zero\/1.0\/). Trimmed and leveled.",
       "imageSource" : "Beth Rufener on Unsplash",
       "name" : "Violin",
@@ -183,6 +183,6 @@
   "image" : "🎼",
   "color" : "EBEBEB",
   "duration" : 61,
-  "size" : 1076503,
+  "size" : 1052296,
   "description" : "Musical sounds we make using instruments from the orchestra, band, and farmland."
 }
